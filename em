@@ -1,0 +1,1 @@
+trojan://3490031b-b8b6-4570-aa7b-71174ad12d56@emily520.tk:443?allowInsecure=0&&peer=emily520.tk&sni=emily520.tk&plugin=obfs-local;obfs=websocket;obfs-host=emily520.tk;obfs-uri=/skigtws#emily520.tk_trojan_ws
